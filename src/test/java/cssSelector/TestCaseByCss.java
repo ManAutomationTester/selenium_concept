@@ -10,11 +10,10 @@ import org.openqa.selenium.support.ui.Select;
 public class TestCaseByCss {
 
 	public static void main(String[] args) {
-
+// hi This is man Singh
 		TestCaseByCss tc=new TestCaseByCss();
 
 		tc.tc001VerifyLoginButton();
-
 
 	}
 	public void tc001VerifyLoginButton() {
@@ -67,7 +66,6 @@ public class TestCaseByCss {
 			System.out.println("user is able to enter in the user name text box");
 		} else {
 			System.out.println("user is unable to enter in the user name text box");
-
 
 		}
 
